@@ -1,0 +1,46 @@
+
+.round-img{
+  border-radius: 50%;
+}
+
+.red-text{
+  color: red;
+}
+
+body{
+  background-color:#C2FFF9;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+
+}
+
+
+
+.round-img {
+border-radius: 50%;
+}
+
+.red-text {
+color: red;
+}
+
+h3{
+  background-color: #009DAE;
+  padding: 0.5em 0.2em 0.5em 0.5em;
+  border-radius: 20px;
+  width: 280px;
+
+}
+
+.font{
+
+  font: italic 3em "Fira Sans", serif;
+
+}
